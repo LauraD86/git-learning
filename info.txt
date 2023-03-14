@@ -1,0 +1,2 @@
+intro text for info.txt
+edit of info 
