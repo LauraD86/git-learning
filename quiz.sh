@@ -22,4 +22,4 @@ echo "Correct"
 else
 echo "Incorrect"
 fi
-
+echo "You Scored $SCORE out of 11."
