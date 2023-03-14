@@ -7,7 +7,8 @@ TFQUIZ=("This is question number 1.T"
         "This is question number 7.T"
         "This is question number 8.T"
         "This is question number 9.T"
-        "This is question number 11.F")
+	"This is question number 11.F"
+	"This is the final question.T")
 
 SCORE=0
 
